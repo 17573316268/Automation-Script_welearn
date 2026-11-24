@@ -10,7 +10,10 @@
 
 ## 文件说明
 
+| 文件 | 作用 |
+|---|---|
 | `Automation-Script_welearn.js` | 主脚本 |
+
 
 ## 使用方法
 
